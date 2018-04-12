@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497885489 source:c:\users\pc\desktop\ejercicio2\main.cpp
+	<iostream>
+	<fstream>
+
